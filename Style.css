@@ -172,7 +172,7 @@ nav .icon-burger .line {
       rgba(10, 10, 26, 0.6) 70%,
       rgba(184, 134, 11, 1)
     ),
-    url(back.jpg);
+    url(Images/back.jpg);
   background-position: center center;
   background-size: cover;
   display: flex;

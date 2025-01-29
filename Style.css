@@ -172,7 +172,7 @@ nav .icon-burger .line {
       rgba(10, 10, 26, 0.6) 70%,
       rgba(184, 134, 11, 1)
     ),
-    url(Images/back.jpg);
+    url(back.jpg);
   background-position: center center;
   background-size: cover;
   display: flex;
@@ -892,7 +892,7 @@ nav .icon-burger .line {
   width: 100%;
   height: 35vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(Images/mediaback.jpg);
+    url(mediaback.jpg);
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1132,7 +1132,7 @@ button.send:hover {
       rgba(0, 0, 0, 0.6) 65%,
       rgba(184, 134, 11, 1)
     ),
-    url(Images/aboutback.jpg) no-repeat;
+    url(aboutback.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   height: 400px;
@@ -1280,7 +1280,7 @@ button.send:hover {
       rgba(0, 0, 0, 0.6) 70%,
       rgba(184, 134, 11, 1)
     ),
-    url(Images/servicesback.jpg) no-repeat;
+    url(servicesback.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   height: 400px;
@@ -1447,7 +1447,7 @@ button.send:hover {
       rgba(0, 0, 0, 0.6) 70%,
       rgba(184, 134, 11, 1)
     ),
-    url(Images/blogback.jpg) no-repeat;
+    url(blogback.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   height: 400px;
@@ -1596,7 +1596,7 @@ button.send:hover {
       rgba(0, 0, 0, 0.6) 70%,
       rgba(184, 134, 11, 1)
     ),
-    url(Images/enquiryback.jpg) no-repeat;
+    url(enquiryback.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   height: 400px;
@@ -2005,7 +2005,7 @@ button.send:hover {
 
 /*--------------------------------------------------------------*************------------------------------------------------------------------------------*/
 #preloader {
-  background: #fff url(/preloader.gif) no-repeat center center;
+  background: #fff url(preloader.gif) no-repeat center center;
   height: 100vh;
   width: 100%;
   position: fixed;
